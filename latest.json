@@ -1,16 +1,16 @@
 {
- "version": "0.10.65",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.65/Dreamwalker.pck",
- "sha256": "4cfeebad8baf48d8bd30fab4ce6e4f992b6598716d8ade6310bdbc5dbf0d2037",
- "size": 23835704,
+ "version": "0.10.66",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.66/Dreamwalker.pck",
+ "sha256": "47e6e5a2977b53d52964fa1f3b7742db5f081a1370061748f137c104f6553299",
+ "size": 23842184,
  "notes_tr": [
-  "Harita ipuçları yalnız Kolay modda",
-  "İsim profilde kalır",
-  "İmleç daha oval, mod renginde haleli"
+  "Extreme modun adı artık Kâbus",
+  "Kâbus modunda yatağın altında bir şey var",
+  "Ana menü düğmeleri yazıya göre"
  ],
  "notes_en": [
-  "Harita ipuçları yalnız Kolay modda",
-  "İsim profilde kalır",
-  "İmleç daha oval, mod renginde haleli"
+  "Extreme modun adı artık Kâbus",
+  "Kâbus modunda yatağın altında bir şey var",
+  "Ana menü düğmeleri yazıya göre"
  ]
 }

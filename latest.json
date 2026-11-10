@@ -1,12 +1,16 @@
 {
- "version": "0.10.64",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.64/Dreamwalker.pck",
- "sha256": "25d2734d1d49e11e044874662efe37ba9f543c50ebfd1124450e3ed01b66cb2b",
- "size": 23834040,
+ "version": "0.10.65",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.65/Dreamwalker.pck",
+ "sha256": "4cfeebad8baf48d8bd30fab4ce6e4f992b6598716d8ade6310bdbc5dbf0d2037",
+ "size": 23835704,
  "notes_tr": [
-  "Özel fare imleci"
+  "Harita ipuçları yalnız Kolay modda",
+  "İsim profilde kalır",
+  "İmleç daha oval, mod renginde haleli"
  ],
  "notes_en": [
-  "Özel fare imleci"
+  "Harita ipuçları yalnız Kolay modda",
+  "İsim profilde kalır",
+  "İmleç daha oval, mod renginde haleli"
  ]
 }

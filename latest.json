@@ -1,14 +1,16 @@
 {
- "version": "0.10.71",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.71/Dreamwalker.pck",
- "sha256": "af8fef021de241db6b4b395d49925649f5ce1962c36e042df655805aae2476df",
- "size": 23869528,
+ "version": "0.10.72",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.72/Dreamwalker.pck",
+ "sha256": "01f1a8f3cabe0207c241ab84ff32819f838c146ff9d16bceb18a36f69ba5f3b4",
+ "size": 23880680,
  "notes_tr": [
-  "Güncelleme arka planda 5 dakikada bir denetlenir",
-  "Güncelleme kartı yukarıdan düşer"
+  "Başlık gümüş ve parıltılı",
+  "Lamba açılıp kapanıyor",
+  "Menü düğmeleri sağa alındı, oda doldu"
  ],
  "notes_en": [
-  "Güncelleme arka planda 5 dakikada bir denetlenir",
-  "Güncelleme kartı yukarıdan düşer"
+  "Başlık gümüş ve parıltılı",
+  "Lamba açılıp kapanıyor",
+  "Menü düğmeleri sağa alındı, oda doldu"
  ]
 }

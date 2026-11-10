@@ -1,16 +1,14 @@
 {
- "version": "0.10.69",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.69/Dreamwalker.pck",
- "sha256": "7633a2a2b508d3692f06c248b9cb6e3211921c74771454b9abe18fec18fb6b33",
- "size": 23866920,
+ "version": "0.10.70",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.70/Dreamwalker.pck",
+ "sha256": "92262478295525bdaeed83762fc9e2c6161e95df1676949b1a2543ba01f6206c",
+ "size": 23867480,
  "notes_tr": [
-  "Desen ve obje boyası",
-  "Harita sayfasının arka planı doldu",
-  "Karakter ekranı sakinleşti"
+  "Bütün modlar koyu açılır",
+  "Mod değişince yalnız para ve ilerleme sıfırlanır"
  ],
  "notes_en": [
-  "Desen ve obje boyası",
-  "Harita sayfasının arka planı doldu",
-  "Karakter ekranı sakinleşti"
+  "Bütün modlar koyu açılır",
+  "Mod değişince yalnız para ve ilerleme sıfırlanır"
  ]
 }

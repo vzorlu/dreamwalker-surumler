@@ -1,14 +1,12 @@
 {
- "version": "0.10.63",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.63/Dreamwalker.pck",
- "sha256": "7fca867c6d51c7a17c5a45763daf237fe9315920fe21f2022cf1f3b616b872b4",
- "size": 23829196,
+ "version": "0.10.64",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.64/Dreamwalker.pck",
+ "sha256": "25d2734d1d49e11e044874662efe37ba9f543c50ebfd1124450e3ed01b66cb2b",
+ "size": 23834040,
  "notes_tr": [
-  "Mıknatıs artık bir yetenek",
-  "Yetenekler pahalı"
+  "Özel fare imleci"
  ],
  "notes_en": [
-  "Mıknatıs artık bir yetenek",
-  "Yetenekler pahalı"
+  "Özel fare imleci"
  ]
 }

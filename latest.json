@@ -1,12 +1,14 @@
 {
- "version": "0.10.59",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.59/Dreamwalker.pck",
- "sha256": "05c206b781a0ee7be3ca937e31d1bc61274bd9deacbb1cfb7ba9598c8f4d4ffd",
- "size": 23821644,
+ "version": "0.10.60",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.60/Dreamwalker.pck",
+ "sha256": "15d2db20198b29ec0ec9e94cfb22417000dff2dc063b4afa7574ae0fbfafb535",
+ "size": 23824588,
  "notes_tr": [
-  "Mod değişimi / Yeni Rüya döngüsü düzeldi"
+  "Güncelleme kendiliğinden yeniden başlatır",
+  "\"Güncellendi\" bildirimi"
  ],
  "notes_en": [
-  "Mod değişimi / Yeni Rüya döngüsü düzeldi"
+  "Güncelleme kendiliğinden yeniden başlatır",
+  "\"Güncellendi\" bildirimi"
  ]
 }

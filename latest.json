@@ -1,14 +1,14 @@
 {
- "version": "0.10.62",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.62/Dreamwalker.pck",
- "sha256": "b8e27fc679df5b0f9bd46e798cf761a20d1a06440dd112d588cea4250114eebb",
- "size": 23827596,
+ "version": "0.10.63",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.63/Dreamwalker.pck",
+ "sha256": "7fca867c6d51c7a17c5a45763daf237fe9315920fe21f2022cf1f3b616b872b4",
+ "size": 23829196,
  "notes_tr": [
-  "Güncelleme bildirimi oyun açıkken de gelir",
-  "AFK uykusu 40 saniyede"
+  "Mıknatıs artık bir yetenek",
+  "Yetenekler pahalı"
  ],
  "notes_en": [
-  "Güncelleme bildirimi oyun açıkken de gelir",
-  "AFK uykusu 40 saniyede"
+  "Mıknatıs artık bir yetenek",
+  "Yetenekler pahalı"
  ]
 }

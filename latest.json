@@ -1,14 +1,16 @@
 {
- "version": "0.10.60",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.60/Dreamwalker.pck",
- "sha256": "9030d1da6de2ac1f32264e6234904adf0b690e67d06aa520694c06a134a1c4a7",
+ "version": "0.10.61",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.61/Dreamwalker.pck",
+ "sha256": "052b3b759e00ee4b2f6ac16bf1f55a2a62468dc9cf1aa8cf624dbeddf7bea8b9",
  "size": 23824860,
  "notes_tr": [
-  "Güncelleme kendiliğinden yeniden başlatır",
-  "\"Güncellendi\" bildirimi"
+  "Kopyalar duraklatmada ve ana menüde durur",
+  "AFK uykusu yalnız hareket tuşlarıyla",
+  "Kopya geliri beşte bire indi"
  ],
  "notes_en": [
-  "Güncelleme kendiliğinden yeniden başlatır",
-  "\"Güncellendi\" bildirimi"
+  "Kopyalar duraklatmada ve ana menüde durur",
+  "AFK uykusu yalnız hareket tuşlarıyla",
+  "Kopya geliri beşte bire indi"
  ]
 }

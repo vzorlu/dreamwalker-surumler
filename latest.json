@@ -1,8 +1,16 @@
 {
- "version": "0.0.0",
- "pck_url": "",
- "sha256": "",
- "size": 0,
- "notes_tr": [],
- "notes_en": []
+ "version": "0.10.58",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.58/Dreamwalker.pck",
+ "sha256": "7e13a9a786ea339eb840f01b3b85e2f3b765f10370324a1ffe091b77cf55abb8",
+ "size": 23819980,
+ "notes_tr": [
+  "Oyun içi güncelleme",
+  "Güvenlik: paket yalnız doğrulanmışsa ve exe'den yeniyse kullanılır; yeni paketle açılış…",
+  "Yayın aracı: tools/publish_update.py (paket + GitHub sürümü + latest.json)."
+ ],
+ "notes_en": [
+  "Oyun içi güncelleme",
+  "Güvenlik: paket yalnız doğrulanmışsa ve exe'den yeniyse kullanılır; yeni paketle açılış…",
+  "Yayın aracı: tools/publish_update.py (paket + GitHub sürümü + latest.json)."
+ ]
 }

@@ -1,16 +1,16 @@
 {
- "version": "0.10.77",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.77/Dreamwalker.pck",
- "sha256": "bcf65f4c8b3ffdb913a1351b43918a7b6a666e1d40635bde26bf65735949bfeb",
- "size": 23893752,
+ "version": "0.10.78",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.78/Dreamwalker.pck",
+ "sha256": "c693939327b7fe672cf6bf151e090154409e9ed827594a3208cdda068119921d",
+ "size": 23929352,
  "notes_tr": [
-  "Karakter ekranında kategoriler solda sabit",
-  "Desenler objeler alanına taşındı",
-  "Yeni desen seti"
+  "Özel renk artık bir kutucuk",
+  "Obje boyası yalnız ana rengi boyar",
+  "Çok renkli objeler boyanmaz"
  ],
  "notes_en": [
-  "Karakter ekranında kategoriler solda sabit",
-  "Desenler objeler alanına taşındı",
-  "Yeni desen seti"
+  "Özel renk artık bir kutucuk",
+  "Obje boyası yalnız ana rengi boyar",
+  "Çok renkli objeler boyanmaz"
  ]
 }

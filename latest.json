@@ -1,12 +1,12 @@
 {
- "version": "0.10.89",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.89/Dreamwalker.pck",
- "sha256": "a6a5b1a0ef3af38b1fb63e9f972e35a5a904a07e8cce346115c31a9eb74e702a",
- "size": 1027052,
+ "version": "0.10.91",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.91/Dreamwalker.pck",
+ "sha256": "2be6ec2ceed841b7477f2f33a0fce35be4bf687ccb36f005362cad545d8d8cbf",
+ "size": 988492,
  "notes_tr": [
-  "Ayarlar'da güncelleme denetimi"
+  "Harita güncellemesi"
  ],
  "notes_en": [
-  "Ayarlar'da güncelleme denetimi"
+  "Harita güncellemesi"
  ]
 }

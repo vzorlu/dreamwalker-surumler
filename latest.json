@@ -1,12 +1,16 @@
 {
- "version": "0.10.75",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.75/Dreamwalker.pck",
- "sha256": "3ff3a1064961a1e5969699cb2b42b6a242b8f1b4f9d248b3a4006764eab58b32",
- "size": 23882632,
+ "version": "0.10.76",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.76/Dreamwalker.pck",
+ "sha256": "2fd970229ff0a8e25c79f90f1fafe18c9ff3c4c3ee585763402042db03d1053b",
+ "size": 23889832,
  "notes_tr": [
-  "Açık tema yalnız pencerelerde ve kutularda"
+  "Karakter ekranı baştan düzenlendi",
+  "Sahip olmadığın objeyi üstünde dene",
+  "Obje düğmelerinde yalnız obje"
  ],
  "notes_en": [
-  "Açık tema yalnız pencerelerde ve kutularda"
+  "Karakter ekranı baştan düzenlendi",
+  "Sahip olmadığın objeyi üstünde dene",
+  "Obje düğmelerinde yalnız obje"
  ]
 }

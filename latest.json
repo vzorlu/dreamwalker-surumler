@@ -1,16 +1,16 @@
 {
- "version": "0.10.99",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.99/Dreamwalker.pck",
- "sha256": "9fda6c1cc44338085ac3c6ccf2e767c01f967dad4fadd79d9a4c48d0c39dfb64",
- "size": 1295084,
+ "version": "0.10.100",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.100/Dreamwalker.pck",
+ "sha256": "b40180dd67497cc1772438b7a45114a37e7641a76064e0b0f339c71006e2baff",
+ "size": 1294636,
  "notes_tr": [
-  "2.–10. katmanlar baştan yapıldı — her biri rüyanın daha derinine iner",
-  "Gök katmandan katmana koyulaşır",
-  "Par ve ödüller yeni uzunluğa göre"
+  "Yeni ana karakter: Gölge",
+  "Karakter moda göre hâl değiştirir",
+  "Desenler kaldırıldı, objeler duruyor"
  ],
  "notes_en": [
-  "2.–10. katmanlar baştan yapıldı — her biri rüyanın daha derinine iner",
-  "Gök katmandan katmana koyulaşır",
-  "Par ve ödüller yeni uzunluğa göre"
+  "Yeni ana karakter: Gölge",
+  "Karakter moda göre hâl değiştirir",
+  "Desenler kaldırıldı, objeler duruyor"
  ]
 }

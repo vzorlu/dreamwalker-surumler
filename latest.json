@@ -1,12 +1,12 @@
 {
- "version": "0.10.82",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.82/Dreamwalker.pck",
- "sha256": "c3478b67b3d57aaa6dda5a61baf049e52b87cba19b947e227f793b5c4faadda9",
- "size": 1071788,
+ "version": "0.10.83",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.83/Dreamwalker.pck",
+ "sha256": "da97c68aecdcb73314f555d18ea007e481e2c797b6851579c8a70505e0c0f97a",
+ "size": 1025132,
  "notes_tr": [
-  "Güncellemeler artık ~1 MB"
+  "Yatak Odası eski hâline döndü: v0.10.82 paketine, editörde üzerinde…"
  ],
  "notes_en": [
-  "Güncellemeler artık ~1 MB"
+  "Yatak Odası eski hâline döndü: v0.10.82 paketine, editörde üzerinde…"
  ]
 }

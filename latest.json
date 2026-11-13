@@ -1,12 +1,14 @@
 {
- "version": "1.0.0",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.0/Dreamwalker.pck",
- "sha256": "714e0f9826bbb73d614a8e1a2327d4c0f6618875988abc6a0afe13e3cb5176c7",
- "size": 1294636,
+ "version": "1.0.1",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.1/Dreamwalker.pck",
+ "sha256": "f695e9a26420897e95487f57b898f03e4a556c5ed911b5c8c06425ba74e5b5c6",
+ "size": 1296796,
  "notes_tr": [
-  "Sürüm 1.0.0"
+  "Mod ekranı sadeleşti",
+  "Geri düğmeleri"
  ],
  "notes_en": [
-  "Sürüm 1.0.0"
+  "Mod ekranı sadeleşti",
+  "Geri düğmeleri"
  ]
 }

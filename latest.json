@@ -1,12 +1,12 @@
 {
- "version": "0.10.73",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.73/Dreamwalker.pck",
- "sha256": "18e7965bb5be9e8d7140f6e3a2bc9d90cb85c056d85cc7c0fe368dfc5368f334",
- "size": 23880824,
+ "version": "0.10.74",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.74/Dreamwalker.pck",
+ "sha256": "cd9abee7e54b401d462a4d70f9f7d51eb3beb135c6e665acbbeee5ce3a3f4714",
+ "size": 23880776,
  "notes_tr": [
-  "Uyuyanın kolu yorganın üstünde"
+  "Kâbus'ta çekilen yorgan tek parça"
  ],
  "notes_en": [
-  "Uyuyanın kolu yorganın üstünde"
+  "Kâbus'ta çekilen yorgan tek parça"
  ]
 }

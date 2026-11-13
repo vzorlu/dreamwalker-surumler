@@ -1,16 +1,12 @@
 {
- "version": "0.10.72",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.72/Dreamwalker.pck",
- "sha256": "01f1a8f3cabe0207c241ab84ff32819f838c146ff9d16bceb18a36f69ba5f3b4",
- "size": 23880680,
+ "version": "0.10.73",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.73/Dreamwalker.pck",
+ "sha256": "18e7965bb5be9e8d7140f6e3a2bc9d90cb85c056d85cc7c0fe368dfc5368f334",
+ "size": 23880824,
  "notes_tr": [
-  "Başlık gümüş ve parıltılı",
-  "Lamba açılıp kapanıyor",
-  "Menü düğmeleri sağa alındı, oda doldu"
+  "Uyuyanın kolu yorganın üstünde"
  ],
  "notes_en": [
-  "Başlık gümüş ve parıltılı",
-  "Lamba açılıp kapanıyor",
-  "Menü düğmeleri sağa alındı, oda doldu"
+  "Uyuyanın kolu yorganın üstünde"
  ]
 }

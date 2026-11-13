@@ -1,16 +1,16 @@
 {
- "version": "0.10.98",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.98/Dreamwalker.pck",
- "sha256": "44c917402e3f553fb46f6017bfdf9b5c4454b2562c355f124c7be8f3cdf7192c",
- "size": 1143996,
+ "version": "0.10.99",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.99/Dreamwalker.pck",
+ "sha256": "9fda6c1cc44338085ac3c6ccf2e767c01f967dad4fadd79d9a4c48d0c39dfb64",
+ "size": 1295084,
  "notes_tr": [
-  "Yatak Odası baştan yapıldı — rüyanın derinliklerine iniş",
-  "Rüya arka planı",
-  "Kâbus duvarı dikey haritalarda yukarıdan iner"
+  "2.–10. katmanlar baştan yapıldı — her biri rüyanın daha derinine iner",
+  "Gök katmandan katmana koyulaşır",
+  "Par ve ödüller yeni uzunluğa göre"
  ],
  "notes_en": [
-  "Yatak Odası baştan yapıldı — rüyanın derinliklerine iniş",
-  "Rüya arka planı",
-  "Kâbus duvarı dikey haritalarda yukarıdan iner"
+  "2.–10. katmanlar baştan yapıldı — her biri rüyanın daha derinine iner",
+  "Gök katmandan katmana koyulaşır",
+  "Par ve ödüller yeni uzunluğa göre"
  ]
 }

@@ -1,12 +1,16 @@
 {
- "version": "0.10.79",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.79/Dreamwalker.pck",
- "sha256": "d9fe94c287f7c701c1078718cc4d1a5980442ec986b1984f2e3feae392538725",
- "size": 23894328,
+ "version": "0.10.80",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.80/Dreamwalker.pck",
+ "sha256": "b9cdc5f490aea6c821c7d697cd43c099e65c1834243c92ee55ff32a8ed00ae68",
+ "size": 23905976,
  "notes_tr": [
-  "Koridor katmanının çözüm rotası (G) geri geldi: v0.10.78 paketine k…"
+  "Harita editöründe bütün objeler",
+  "Editörde kaydırma ve yakınlaştırma",
+  "Dikey parkur ve büyük haritalar"
  ],
  "notes_en": [
-  "Koridor katmanının çözüm rotası (G) geri geldi: v0.10.78 paketine k…"
+  "Harita editöründe bütün objeler",
+  "Editörde kaydırma ve yakınlaştırma",
+  "Dikey parkur ve büyük haritalar"
  ]
 }

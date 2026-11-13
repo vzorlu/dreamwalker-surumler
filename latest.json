@@ -1,12 +1,12 @@
 {
- "version": "0.10.94",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.94/Dreamwalker.pck",
- "sha256": "6a04d425c2c6254e76660a821e968f0d59ae4131c614bae293b536add1f88352",
- "size": 991452,
+ "version": "0.10.95",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.95/Dreamwalker.pck",
+ "sha256": "b05c79f19f028215d3336d161805788103e9a3392d93c11d62d5c54865fbb6f6",
+ "size": 991644,
  "notes_tr": [
-  "Teşhis: oyun açılırken günlüğe hangi sürümün haritalarının yüklendi…"
+  "Güncellenen harita, Thamassa hesabıyla girilmiş başka bilgisayarlar…"
  ],
  "notes_en": [
-  "Teşhis: oyun açılırken günlüğe hangi sürümün haritalarının yüklendi…"
+  "Güncellenen harita, Thamassa hesabıyla girilmiş başka bilgisayarlar…"
  ]
 }

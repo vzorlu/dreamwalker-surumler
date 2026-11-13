@@ -1,16 +1,12 @@
 {
- "version": "0.10.100",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.100/Dreamwalker.pck",
- "sha256": "b40180dd67497cc1772438b7a45114a37e7641a76064e0b0f339c71006e2baff",
+ "version": "1.0.0",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.0/Dreamwalker.pck",
+ "sha256": "714e0f9826bbb73d614a8e1a2327d4c0f6618875988abc6a0afe13e3cb5176c7",
  "size": 1294636,
  "notes_tr": [
-  "Yeni ana karakter: Gölge",
-  "Karakter moda göre hâl değiştirir",
-  "Desenler kaldırıldı, objeler duruyor"
+  "Sürüm 1.0.0"
  ],
  "notes_en": [
-  "Yeni ana karakter: Gölge",
-  "Karakter moda göre hâl değiştirir",
-  "Desenler kaldırıldı, objeler duruyor"
+  "Sürüm 1.0.0"
  ]
 }

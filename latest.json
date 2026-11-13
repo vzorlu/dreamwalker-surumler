@@ -1,16 +1,14 @@
 {
- "version": "0.10.80",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.80/Dreamwalker.pck",
- "sha256": "b9cdc5f490aea6c821c7d697cd43c099e65c1834243c92ee55ff32a8ed00ae68",
- "size": 23905976,
+ "version": "0.10.81",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.81/Dreamwalker.pck",
+ "sha256": "a07b03a6bc5ec3d9c83cfef8e0061bbf0e33a8b175b7865b4fb52baf4dc3c8b4",
+ "size": 23908968,
  "notes_tr": [
-  "Harita editöründe bütün objeler",
-  "Editörde kaydırma ve yakınlaştırma",
-  "Dikey parkur ve büyük haritalar"
+  "Tuzaklar önceden belirir",
+  "Büyük haritalarda kasma giderildi"
  ],
  "notes_en": [
-  "Harita editöründe bütün objeler",
-  "Editörde kaydırma ve yakınlaştırma",
-  "Dikey parkur ve büyük haritalar"
+  "Tuzaklar önceden belirir",
+  "Büyük haritalarda kasma giderildi"
  ]
 }

@@ -1,16 +1,12 @@
 {
- "version": "0.10.78",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.78/Dreamwalker.pck",
- "sha256": "c693939327b7fe672cf6bf151e090154409e9ed827594a3208cdda068119921d",
- "size": 23929352,
+ "version": "0.10.79",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v0.10.79/Dreamwalker.pck",
+ "sha256": "d9fe94c287f7c701c1078718cc4d1a5980442ec986b1984f2e3feae392538725",
+ "size": 23894328,
  "notes_tr": [
-  "Özel renk artık bir kutucuk",
-  "Obje boyası yalnız ana rengi boyar",
-  "Çok renkli objeler boyanmaz"
+  "Koridor katmanının çözüm rotası (G) geri geldi: v0.10.78 paketine k…"
  ],
  "notes_en": [
-  "Özel renk artık bir kutucuk",
-  "Obje boyası yalnız ana rengi boyar",
-  "Çok renkli objeler boyanmaz"
+  "Koridor katmanının çözüm rotası (G) geri geldi: v0.10.78 paketine k…"
  ]
 }

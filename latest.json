@@ -1,14 +1,16 @@
 {
- "version": "1.0.11",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.11/Dreamwalker.pck",
- "sha256": "d2491eed0100f70f922809ecf14eed56251429dc028fda90074557fdfea13c92",
- "size": 1569412,
+ "version": "1.0.12",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.12/Dreamwalker.pck",
+ "sha256": "905b09aa4065bb37a7f37326e57245277e0844f65771b411016d19eb9b6117c5",
+ "size": 1629140,
  "notes_tr": [
-  "Kaçan çıkış yataklı haritada da çalışıyor.",
-  "Kaçan yatağa, kaçtığı yerde yatılır."
+  "Her rüya yatakta başlıyor.",
+  "Her modun kendi bitişi, animasyonuyla.",
+  "Kuyu kalktı."
  ],
  "notes_en": [
-  "Kaçan çıkış yataklı haritada da çalışıyor.",
-  "Kaçan yatağa, kaçtığı yerde yatılır."
+  "Her rüya yatakta başlıyor.",
+  "Her modun kendi bitişi, animasyonuyla.",
+  "Kuyu kalktı."
  ]
 }

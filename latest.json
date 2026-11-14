@@ -1,16 +1,12 @@
 {
- "version": "1.0.16",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.16/Dreamwalker.pck",
- "sha256": "d7c8083210c9b9bcdf2120702c1593535e9aad747734d2b98a9418bc3e64fd5c",
- "size": 1744716,
+ "version": "1.0.17",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.17/Dreamwalker.pck",
+ "sha256": "8aa0774ea2a7328a4a585329cf31dc61626538a24c867195d4c74f9c7983f9cc",
+ "size": 1763384,
  "notes_tr": [
-  "Rekorlar penceresi.",
-  "Haftalık ve aylık listeler ay sonunda sıfırlanır.",
-  "Kolay'da ters yön ve yalnız SPACE zorunluluğu yok."
+  "Ana menüdeki başlık küçüldü."
  ],
  "notes_en": [
-  "Rekorlar penceresi.",
-  "Haftalık ve aylık listeler ay sonunda sıfırlanır.",
-  "Kolay'da ters yön ve yalnız SPACE zorunluluğu yok."
+  "Ana menüdeki başlık küçüldü."
  ]
 }

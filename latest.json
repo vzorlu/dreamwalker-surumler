@@ -1,16 +1,14 @@
 {
- "version": "1.0.3",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.3/Dreamwalker.pck",
- "sha256": "122e846425f2b9cbde49d941bdcf8d7b735787cb02b79a7c4db69219b8bcb986",
- "size": 1301556,
+ "version": "1.0.4",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.4/Dreamwalker.pck",
+ "sha256": "2ffe9a82b1dd9051d2de4c7f6dd37136a21734d091010841f08663dd0eb7d598",
+ "size": 1302852,
  "notes_tr": [
-  "Rüya Günlüğü yeniden tasarlandı",
-  "Karakter ekranı yeniden tasarlandı",
-  "Ortak sayfa standardı"
+  "Harita editöründe yeni öğe: Sahte duvar.",
+  "Eski \"Sahte duvar\"ın adı artık \"A. Gizleme Duvarı\""
  ],
  "notes_en": [
-  "Rüya Günlüğü yeniden tasarlandı",
-  "Karakter ekranı yeniden tasarlandı",
-  "Ortak sayfa standardı"
+  "Harita editöründe yeni öğe: Sahte duvar.",
+  "Eski \"Sahte duvar\"ın adı artık \"A. Gizleme Duvarı\""
  ]
 }

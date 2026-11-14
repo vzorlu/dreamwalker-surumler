@@ -1,14 +1,16 @@
 {
- "version": "1.0.24",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.24/Dreamwalker.pck",
- "sha256": "c5258169810b04d149031c76b578564765afbffa131285b52a6b4434c3216ca5",
- "size": 1921128,
+ "version": "1.0.25",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.25/Dreamwalker.pck",
+ "sha256": "83e832541936693c2eefb78961abad27618b4baf4d7a9bd43c1d351557d47233",
+ "size": 1978288,
  "notes_tr": [
-  "Uyuyan karakter artık kıvrılıp yan yatıyor.",
-  "Nefes."
+  "Rüya haritası baştan çizildi: rüya adaları.",
+  "Haritada yeni süslemeler.",
+  "Süslü bilgi paneli ve alt yazı."
  ],
  "notes_en": [
-  "Uyuyan karakter artık kıvrılıp yan yatıyor.",
-  "Nefes."
+  "Rüya haritası baştan çizildi: rüya adaları.",
+  "Haritada yeni süslemeler.",
+  "Süslü bilgi paneli ve alt yazı."
  ]
 }

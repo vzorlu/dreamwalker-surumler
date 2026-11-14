@@ -1,12 +1,16 @@
 {
- "version": "1.0.2",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.2/Dreamwalker.pck",
- "sha256": "d963659fa4a053b8a19f51fe3c62c557b6ad4be93bd09d0e61e67e94e3c04a40",
- "size": 1296572,
+ "version": "1.0.3",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.3/Dreamwalker.pck",
+ "sha256": "122e846425f2b9cbde49d941bdcf8d7b735787cb02b79a7c4db69219b8bcb986",
+ "size": 1301556,
  "notes_tr": [
-  "Tuş ipucu yazıları kalktı"
+  "Rüya Günlüğü yeniden tasarlandı",
+  "Karakter ekranı yeniden tasarlandı",
+  "Ortak sayfa standardı"
  ],
  "notes_en": [
-  "Tuş ipucu yazıları kalktı"
+  "Rüya Günlüğü yeniden tasarlandı",
+  "Karakter ekranı yeniden tasarlandı",
+  "Ortak sayfa standardı"
  ]
 }

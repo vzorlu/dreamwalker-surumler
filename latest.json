@@ -1,14 +1,14 @@
 {
- "version": "1.0.4",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.4/Dreamwalker.pck",
- "sha256": "2ffe9a82b1dd9051d2de4c7f6dd37136a21734d091010841f08663dd0eb7d598",
- "size": 1302852,
+ "version": "1.0.5",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.5/Dreamwalker.pck",
+ "sha256": "e8945f6d0f20733134749e016dc742e8aea077e6294af9317c83ace27ac34c66",
+ "size": 1301956,
  "notes_tr": [
-  "Harita editöründe yeni öğe: Sahte duvar.",
-  "Eski \"Sahte duvar\"ın adı artık \"A. Gizleme Duvarı\""
+  "Harita editöründe çoklu seçip taşıma.",
+  "Seçimle kopyalama ve silme."
  ],
  "notes_en": [
-  "Harita editöründe yeni öğe: Sahte duvar.",
-  "Eski \"Sahte duvar\"ın adı artık \"A. Gizleme Duvarı\""
+  "Harita editöründe çoklu seçip taşıma.",
+  "Seçimle kopyalama ve silme."
  ]
 }

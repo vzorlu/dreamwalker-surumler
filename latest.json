@@ -1,14 +1,16 @@
 {
- "version": "1.0.5",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.5/Dreamwalker.pck",
- "sha256": "e8945f6d0f20733134749e016dc742e8aea077e6294af9317c83ace27ac34c66",
- "size": 1301956,
+ "version": "1.0.6",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.6/Dreamwalker.pck",
+ "sha256": "d20990733a44ea0439e526f257e20e55108bcac43aadf9f439ab28d07ea0fd07",
+ "size": 1313092,
  "notes_tr": [
-  "Harita editöründe çoklu seçip taşıma.",
-  "Seçimle kopyalama ve silme."
+  "Kayıt noktaları: gece lambaları.",
+  "Ölüm animasyonu.",
+  "Moda göre ölüm sesi."
  ],
  "notes_en": [
-  "Harita editöründe çoklu seçip taşıma.",
-  "Seçimle kopyalama ve silme."
+  "Kayıt noktaları: gece lambaları.",
+  "Ölüm animasyonu.",
+  "Moda göre ölüm sesi."
  ]
 }

@@ -1,16 +1,12 @@
 {
- "version": "1.0.19",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.19/Dreamwalker.pck",
- "sha256": "19e99f7c6b75cfb548c21715a660229fd5dd0bbde4ef7d69fa4123dc0b1a1ef4",
- "size": 1799804,
+ "version": "1.0.20",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.20/Dreamwalker.pck",
+ "sha256": "08c0e29fcd39740f37ec7181989927a9a3e34e4ed2dff244f104f11f80cafb36",
+ "size": 1814108,
  "notes_tr": [
-  "Rüya bitince çıkan kart yenilendi.",
-  "Eski ekranlar son tasarıma geçti.",
-  "Alt ortadaki yeşil ipucu ve uyarı yazıları kalktı."
+  "Oyun Modu'nda seçim artık renkleri değiştirmiyor."
  ],
  "notes_en": [
-  "Rüya bitince çıkan kart yenilendi.",
-  "Eski ekranlar son tasarıma geçti.",
-  "Alt ortadaki yeşil ipucu ve uyarı yazıları kalktı."
+  "Oyun Modu'nda seçim artık renkleri değiştirmiyor."
  ]
 }

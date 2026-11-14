@@ -1,14 +1,16 @@
 {
- "version": "1.0.28",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.28/Dreamwalker.pck",
- "sha256": "50348b0177d0fbd4710ddc094757416fbf9d3f95b37537db8007ef7cc815ff7d",
- "size": 2053636,
+ "version": "1.0.29",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.29/Dreamwalker.pck",
+ "sha256": "ac6a64982cc70aa1b60b24840e9fce45e8c31bac4ee8370d640d4f7b1cf30b70",
+ "size": 2096176,
  "notes_tr": [
-  "Sıçrarken kollar iki yana açılmıyor.",
-  "Gövde esnemesi."
+  "Rüya Anahtarı ve sandıklar.",
+  "Sandık açılışı.",
+  "Sandığa özel dört eşya."
  ],
  "notes_en": [
-  "Sıçrarken kollar iki yana açılmıyor.",
-  "Gövde esnemesi."
+  "Rüya Anahtarı ve sandıklar.",
+  "Sandık açılışı.",
+  "Sandığa özel dört eşya."
  ]
 }

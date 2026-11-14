@@ -1,12 +1,14 @@
 {
- "version": "1.0.20",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.20/Dreamwalker.pck",
- "sha256": "08c0e29fcd39740f37ec7181989927a9a3e34e4ed2dff244f104f11f80cafb36",
- "size": 1814108,
+ "version": "1.0.21",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.21/Dreamwalker.pck",
+ "sha256": "ff00c46bb661f3a864e70d25763b34c87799a70e83515db6f689bfc97c8e3eda",
+ "size": 1850104,
  "notes_tr": [
-  "Oyun Modu'nda seçim artık renkleri değiştirmiyor."
+  "Koşu ve sıçrama canlandırması.",
+  "Karakter sayfasında karakter dönmüyor."
  ],
  "notes_en": [
-  "Oyun Modu'nda seçim artık renkleri değiştirmiyor."
+  "Koşu ve sıçrama canlandırması.",
+  "Karakter sayfasında karakter dönmüyor."
  ]
 }

@@ -1,14 +1,14 @@
 {
- "version": "1.0.9",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.9/Dreamwalker.pck",
- "sha256": "962a832c9081031de507a40d79e79c99111633d5c10617dc92e00efc1947e2ee",
- "size": 1567476,
+ "version": "1.0.10",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.10/Dreamwalker.pck",
+ "sha256": "5a20760fb82d3c008d2d86baabf99972091bc71e68a3c83f9f558e558eab5f15",
+ "size": 1568756,
  "notes_tr": [
-  "Kenarda duruş düzeltildi.",
-  "Ayaklar zeminin üstünde."
+  "Çöken zemin: görünmez blok hatası düzeltildi.",
+  "Yan yana ve üst üste boyanan çöken zemin artık tek parça."
  ],
  "notes_en": [
-  "Kenarda duruş düzeltildi.",
-  "Ayaklar zeminin üstünde."
+  "Çöken zemin: görünmez blok hatası düzeltildi.",
+  "Yan yana ve üst üste boyanan çöken zemin artık tek parça."
  ]
 }

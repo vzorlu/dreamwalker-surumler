@@ -1,14 +1,14 @@
 {
- "version": "1.0.8",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.8/Dreamwalker.pck",
- "sha256": "79f22478187d84335de267ac76c7164ce0301bae771c310b5602df4672b44836",
- "size": 1550320,
+ "version": "1.0.9",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.9/Dreamwalker.pck",
+ "sha256": "962a832c9081031de507a40d79e79c99111633d5c10617dc92e00efc1947e2ee",
+ "size": 1567476,
  "notes_tr": [
-  "Güncelleme geçmişi.",
-  "Oyuncu ve yetkili görünümü ayrı."
+  "Kenarda duruş düzeltildi.",
+  "Ayaklar zeminin üstünde."
  ],
  "notes_en": [
-  "Güncelleme geçmişi.",
-  "Oyuncu ve yetkili görünümü ayrı."
+  "Kenarda duruş düzeltildi.",
+  "Ayaklar zeminin üstünde."
  ]
 }

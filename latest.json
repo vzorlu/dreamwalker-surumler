@@ -1,14 +1,16 @@
 {
- "version": "1.0.14",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.14/Dreamwalker.pck",
- "sha256": "c10c5823fb16d7c35218466757ecba0059abfb0db0fcf4cb050e0e92c782fe13",
- "size": 1691916,
+ "version": "1.0.15",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.15/Dreamwalker.pck",
+ "sha256": "6685d08bc82cc70cbe790c887b47462f9f32679291470946546572dd916fca36",
+ "size": 1713384,
  "notes_tr": [
-  "Her rüyanın kendi görünümü.",
-  "Haritalarda yazılar."
+  "Asit göllerinde yeni geçişler.",
+  "Koridor'da yastıklı iskele.",
+  "Rota aracı yeni öğeleri tanıyor."
  ],
  "notes_en": [
-  "Her rüyanın kendi görünümü.",
-  "Haritalarda yazılar."
+  "Asit göllerinde yeni geçişler.",
+  "Koridor'da yastıklı iskele.",
+  "Rota aracı yeni öğeleri tanıyor."
  ]
 }

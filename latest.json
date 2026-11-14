@@ -1,14 +1,12 @@
 {
- "version": "1.0.21",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.21/Dreamwalker.pck",
- "sha256": "ff00c46bb661f3a864e70d25763b34c87799a70e83515db6f689bfc97c8e3eda",
- "size": 1850104,
+ "version": "1.0.22",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.22/Dreamwalker.pck",
+ "sha256": "79a3a60269ae72ba86d225ec5349a7268008c2355f9e2541528367ab31ae52d1",
+ "size": 1876312,
  "notes_tr": [
-  "Koşu ve sıçrama canlandırması.",
-  "Karakter sayfasında karakter dönmüyor."
+  "Rüya haritasında yollar yıldız tozu izi oldu."
  ],
  "notes_en": [
-  "Koşu ve sıçrama canlandırması.",
-  "Karakter sayfasında karakter dönmüyor."
+  "Rüya haritasında yollar yıldız tozu izi oldu."
  ]
 }

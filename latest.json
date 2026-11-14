@@ -1,12 +1,14 @@
 {
- "version": "1.0.17",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.17/Dreamwalker.pck",
- "sha256": "8aa0774ea2a7328a4a585329cf31dc61626538a24c867195d4c74f9c7983f9cc",
- "size": 1763384,
+ "version": "1.0.18",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.18/Dreamwalker.pck",
+ "sha256": "4c875ad5efdacbf6816d39f51694ffe1a87ddd9e8def6bfd98ce347c8d64330e",
+ "size": 1784400,
  "notes_tr": [
-  "Ana menüdeki başlık küçüldü."
+  "Oyunun yeni adı: Letters to the Sleeper.",
+  "Başlık tek satırda."
  ],
  "notes_en": [
-  "Ana menüdeki başlık küçüldü."
+  "Oyunun yeni adı: Letters to the Sleeper.",
+  "Başlık tek satırda."
  ]
 }

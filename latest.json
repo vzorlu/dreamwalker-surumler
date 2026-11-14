@@ -1,16 +1,16 @@
 {
- "version": "1.0.26",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.26/Dreamwalker.pck",
- "sha256": "2f6ee69bdf2dbba2fdcfd48b7dcf3a1c74ebe8321510c71ac224d931a452700d",
- "size": 2005004,
+ "version": "1.0.27",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.27/Dreamwalker.pck",
+ "sha256": "5e4329fa17856d872cf6b3ffd315f0c66ee69d4a8e97e88ef3accb14b70bdc5a",
+ "size": 2035528,
  "notes_tr": [
-  "Giyilebilir eşyalar baştan tasarlandı.",
-  "Elindeki eşyalar yenilerine çevrildi.",
-  "Eşyalar hareket ediyor."
+  "Sıçrama kısaldı ve toklaştı.",
+  "Kamera yüzde 30 yaklaştı.",
+  "Rekorlar ve kopya rotaları sıfırlandı."
  ],
  "notes_en": [
-  "Giyilebilir eşyalar baştan tasarlandı.",
-  "Elindeki eşyalar yenilerine çevrildi.",
-  "Eşyalar hareket ediyor."
+  "Sıçrama kısaldı ve toklaştı.",
+  "Kamera yüzde 30 yaklaştı.",
+  "Rekorlar ve kopya rotaları sıfırlandı."
  ]
 }

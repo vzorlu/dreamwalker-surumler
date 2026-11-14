@@ -1,16 +1,14 @@
 {
- "version": "1.0.27",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.27/Dreamwalker.pck",
- "sha256": "5e4329fa17856d872cf6b3ffd315f0c66ee69d4a8e97e88ef3accb14b70bdc5a",
- "size": 2035528,
+ "version": "1.0.28",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.28/Dreamwalker.pck",
+ "sha256": "50348b0177d0fbd4710ddc094757416fbf9d3f95b37537db8007ef7cc815ff7d",
+ "size": 2053636,
  "notes_tr": [
-  "Sıçrama kısaldı ve toklaştı.",
-  "Kamera yüzde 30 yaklaştı.",
-  "Rekorlar ve kopya rotaları sıfırlandı."
+  "Sıçrarken kollar iki yana açılmıyor.",
+  "Gövde esnemesi."
  ],
  "notes_en": [
-  "Sıçrama kısaldı ve toklaştı.",
-  "Kamera yüzde 30 yaklaştı.",
-  "Rekorlar ve kopya rotaları sıfırlandı."
+  "Sıçrarken kollar iki yana açılmıyor.",
+  "Gövde esnemesi."
  ]
 }

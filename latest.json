@@ -1,16 +1,16 @@
 {
- "version": "1.0.29",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.29/Dreamwalker.pck",
- "sha256": "ac6a64982cc70aa1b60b24840e9fce45e8c31bac4ee8370d640d4f7b1cf30b70",
- "size": 2096176,
+ "version": "1.0.30",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.30/Dreamwalker.pck",
+ "sha256": "8b18f670272f7e5e26e479e17d16bb8e2aad1a597e8893deda8b243a3cdef4f6",
+ "size": 2138876,
  "notes_tr": [
-  "Rüya Anahtarı ve sandıklar.",
-  "Sandık açılışı.",
-  "Sandığa özel dört eşya."
+  "Başarımlar.",
+  "Ödüller.",
+  "Bildirim."
  ],
  "notes_en": [
-  "Rüya Anahtarı ve sandıklar.",
-  "Sandık açılışı.",
-  "Sandığa özel dört eşya."
+  "Başarımlar.",
+  "Ödüller.",
+  "Bildirim."
  ]
 }

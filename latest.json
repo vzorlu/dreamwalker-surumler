@@ -1,16 +1,16 @@
 {
- "version": "1.0.15",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.15/Dreamwalker.pck",
- "sha256": "6685d08bc82cc70cbe790c887b47462f9f32679291470946546572dd916fca36",
- "size": 1713384,
+ "version": "1.0.16",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.16/Dreamwalker.pck",
+ "sha256": "d7c8083210c9b9bcdf2120702c1593535e9aad747734d2b98a9418bc3e64fd5c",
+ "size": 1744716,
  "notes_tr": [
-  "Asit göllerinde yeni geçişler.",
-  "Koridor'da yastıklı iskele.",
-  "Rota aracı yeni öğeleri tanıyor."
+  "Rekorlar penceresi.",
+  "Haftalık ve aylık listeler ay sonunda sıfırlanır.",
+  "Kolay'da ters yön ve yalnız SPACE zorunluluğu yok."
  ],
  "notes_en": [
-  "Asit göllerinde yeni geçişler.",
-  "Koridor'da yastıklı iskele.",
-  "Rota aracı yeni öğeleri tanıyor."
+  "Rekorlar penceresi.",
+  "Haftalık ve aylık listeler ay sonunda sıfırlanır.",
+  "Kolay'da ters yön ve yalnız SPACE zorunluluğu yok."
  ]
 }

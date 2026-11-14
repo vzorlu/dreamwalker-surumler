@@ -1,16 +1,14 @@
 {
- "version": "1.0.23",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.23/Dreamwalker.pck",
- "sha256": "481c5b27cc11744bcb986a23f384bc5183d74cd2febcb7e380d52f4d236d6a61",
- "size": 1899200,
+ "version": "1.0.24",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.24/Dreamwalker.pck",
+ "sha256": "c5258169810b04d149031c76b578564765afbffa131285b52a6b4434c3216ca5",
+ "size": 1921128,
  "notes_tr": [
-  "Koşuda üst bilgi tek şerit oldu.",
-  "Mektup zarfı sağ üste taşındı.",
-  "Rüya haritasının üstü tek şerit."
+  "Uyuyan karakter artık kıvrılıp yan yatıyor.",
+  "Nefes."
  ],
  "notes_en": [
-  "Koşuda üst bilgi tek şerit oldu.",
-  "Mektup zarfı sağ üste taşındı.",
-  "Rüya haritasının üstü tek şerit."
+  "Uyuyan karakter artık kıvrılıp yan yatıyor.",
+  "Nefes."
  ]
 }

@@ -1,16 +1,16 @@
 {
- "version": "1.0.35",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.35/Dreamwalker.pck",
- "sha256": "5c84dd219f40dc0dd3293a3bfd7351e49ace4295d44e63bafe58da46915f6441",
- "size": 2298432,
+ "version": "1.0.36",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.36/Dreamwalker.pck",
+ "sha256": "4b20e294e050eb6b0f1bd523c459eb2537ed1d6c1473e1192eb4a1e1f5ff6ba1",
+ "size": 2375796,
  "notes_tr": [
-  "Dönem duyurusu.",
-  "Kış atmosferi.",
-  "Yılbaşı atmosferi."
+  "Dönem kostümleri.",
+  "Karakter sayfasında Kostümler.",
+  "Kostüm Dizayn"
  ],
  "notes_en": [
-  "Dönem duyurusu.",
-  "Kış atmosferi.",
-  "Yılbaşı atmosferi."
+  "Dönem kostümleri.",
+  "Karakter sayfasında Kostümler.",
+  "Kostüm Dizayn"
  ]
 }

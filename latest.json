@@ -1,16 +1,16 @@
 {
- "version": "1.0.31",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.31/Dreamwalker.pck",
- "sha256": "f0607823afa49e596c42800e6c3bd67be0b7b74b3ece31ca266afb57f7174fa4",
- "size": 2176360,
+ "version": "1.0.32",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.32/Dreamwalker.pck",
+ "sha256": "330db4ffd7d58ddd1486b8ec00cac492acdf32b2786b7fc4dbadfcd3efe1caad",
+ "size": 2067448,
  "notes_tr": [
-  "Gizli noktalar.",
-  "İki efsanevi eşya.",
-  "Harita kartında Sırlar ve Halkalar."
+  "Yeni hikâye: \"?\" artık dost değil.",
+  "Gizli kelimeler ve şifre.",
+  "Beş kayıp mektup."
  ],
  "notes_en": [
-  "Gizli noktalar.",
-  "İki efsanevi eşya.",
-  "Harita kartında Sırlar ve Halkalar."
+  "Yeni hikâye: \"?\" artık dost değil.",
+  "Gizli kelimeler ve şifre.",
+  "Beş kayıp mektup."
  ]
 }

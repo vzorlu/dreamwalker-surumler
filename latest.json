@@ -1,12 +1,16 @@
 {
- "version": "1.0.33",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.33/Dreamwalker.pck",
- "sha256": "4136578ff9e7b26dabf54ec0b2bce8a1c0aa604d6285b6ab1b7fdb8f130e1567",
- "size": 2095380,
+ "version": "1.0.34",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.34/Dreamwalker.pck",
+ "sha256": "c5859ece95355f75c792749acdd10e9a66a5832292ebdb38c8ac12c67034da6c",
+ "size": 2235736,
  "notes_tr": [
-  "\"Takke Rengi\" kategorisi kalktı."
+  "Eşya paketi: 200 yeni eşya.",
+  "Dönemler.",
+  "Karakter sayfası."
  ],
  "notes_en": [
-  "\"Takke Rengi\" kategorisi kalktı."
+  "Eşya paketi: 200 yeni eşya.",
+  "Dönemler.",
+  "Karakter sayfası."
  ]
 }

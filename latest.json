@@ -1,16 +1,16 @@
 {
- "version": "1.0.36",
- "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.36/Dreamwalker.pck",
- "sha256": "4b20e294e050eb6b0f1bd523c459eb2537ed1d6c1473e1192eb4a1e1f5ff6ba1",
- "size": 2375796,
+ "version": "1.0.37",
+ "pck_url": "https://github.com/vzorlu/dreamwalker-surumler/releases/download/v1.0.37/Dreamwalker.pck",
+ "sha256": "cbdf53dd37e497533af6ff3395c2c8ef121585107820da536edf262881828743",
+ "size": 10804,
  "notes_tr": [
-  "Dönem kostümleri.",
-  "Karakter sayfasında Kostümler.",
-  "Kostüm Dizayn"
+  "Dreamwalker'?n eski da??t?m? kullan?mdan kald?r?ld?.",
+  "Devam etmek i?in yeni Letters To The Sleeper EXE'si gerekli.",
+  "Bu ge?i? paketi indirme ekran?n? a?ar; ?nceki kay?tlar korunur."
  ],
  "notes_en": [
-  "Dönem kostümleri.",
-  "Karakter sayfasında Kostümler.",
-  "Kostüm Dizayn"
+  "The old Dreamwalker distribution has been retired.",
+  "The new Letters To The Sleeper EXE is required to continue.",
+  "This migration package opens the download screen; previous saves are preserved."
  ]
 }
